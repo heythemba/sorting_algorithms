@@ -1,0 +1,5 @@
+/* time complexity */
+
+O(nlog(n))  /* best case */
+O(nlog(n))  /* average case */
+O(nlog(n))  /* worst case */

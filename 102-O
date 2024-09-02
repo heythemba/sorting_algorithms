@@ -1,0 +1,5 @@
+/* time complexity */
+
+O(n+k)  /* best case */
+O(n+k)  /* average case */
+O(n+k)  /* worst case */
