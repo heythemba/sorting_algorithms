@@ -1,7 +1,0 @@
-/* time complexity */
-
-/**
- *
- * No big O notations of the time complexity of the Shell sort (Knuth sequence) algorithm needed
- * (as the complexity is dependent on the size of array and gap)
- */
